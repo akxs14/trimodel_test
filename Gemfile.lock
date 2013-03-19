@@ -97,7 +97,7 @@ GEM
     treetop (1.4.12)
       polyglot
       polyglot (>= 0.3.1)
-    trimodel (0.0.1)
+    trimodel (0.0.2)
     turbolinks (1.0.0)
       coffee-rails
     tzinfo (0.3.37)
@@ -115,6 +115,6 @@ DEPENDENCIES
   rails (= 4.0.0.beta1)
   sass-rails (~> 4.0.0.beta1)
   sqlite3
-  trimodel
+  trimodel (= 0.0.2)
   turbolinks
   uglifier (>= 1.0.3)

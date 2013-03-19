@@ -13,4 +13,6 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 1.0.1'
 
-gem 'trimodel'
+group :development do
+  gem 'trimodel', '0.0.2'
+end
